@@ -13,7 +13,7 @@
             <option name="extraClassSuffix" value="" />
             <option name="ignoreFieldPrefix" value="" />
             <option name="ignoreFieldSuffix" value="" />
-            <option name="ignoreTablePrefix" value="" />
+            <option name="ignoreTablePrefix" value="t_" />
             <option name="ignoreTableSuffix" value="_0" />
             <option name="moduleName" value="admin" />
             <option name="modulePath" value="$PROJECT_DIR$" />
@@ -69,8 +69,8 @@
             <option name="tableUIInfoList">
               <list>
                 <TableUIInfo>
-                  <option name="className" value="TGroup" />
-                  <option name="tableName" value="t_group_0" />
+                  <option name="className" value="Link" />
+                  <option name="tableName" value="t_link_0" />
                 </TableUIInfo>
               </list>
             </option>
